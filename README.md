@@ -1,2 +1,3 @@
- # *Figama  for Er Digram*
+ # *[Figama](google.com)  for Er Digram*
  ## use google services to get data
+ 
