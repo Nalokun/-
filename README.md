@@ -11,7 +11,7 @@
 
 ```
  # *[Figama for Er Digram](https://github.com/Nalokun/SE_project/blob/main/ER%20DIAGRAM.jam)*
- # *[تجربة الموثع](https://sp-hus.blogspot.com/)*
+ # *[تجربة الموقع](https://sp-hus.blogspot.com/)*
  
  ## use google services to get data
  <span style="font-size:100em;color:red;">Text goes here</span>
